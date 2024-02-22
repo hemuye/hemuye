@@ -1,5 +1,2 @@
-### Hi there 👋
+https://github.com/hemuye/hemuye/assets/160711963/615a1ed9-3871-4a1f-9e60-c4ba2a1b273d
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=hemuye&show_icons=true&theme=radical)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=hemuye&show_icons=true&theme=radical)
