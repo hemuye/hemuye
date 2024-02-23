@@ -1,5 +1,4 @@
-
-![ezgif-1-fcb9d5e2e2](https://github.com/hemuye/hemuye/assets/160711963/f1ca7aa0-bf4b-4423-8c71-04aafe8fcde4)
+![ezgif-6-0b5485df07 (1) (1)](https://github.com/hemuye/hemuye/assets/160711963/19198f75-a089-4767-87b3-712c69c43dd5)
 
 Hi! I'm **Hemen Babis**.
 
